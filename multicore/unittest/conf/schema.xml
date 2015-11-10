@@ -181,6 +181,8 @@
 
     <field name="place_ids" type="string" indexed="true" stored="true" multiValued="true" />
 
+    <field name="badge_ids" type="string" indexed="true" stored="true" multiValued="true" />
+
     <field name="points" type="geohash" indexed="true" stored="true" multiValued="true" />
 
     <field name="published" type="date" indexed="true" stored="true" multiValued="false" />
