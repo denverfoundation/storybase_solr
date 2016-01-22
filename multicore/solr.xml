@@ -30,7 +30,7 @@
   -->
   <cores adminPath="/admin/cores">
     <core name="floodlight_dev" instanceDir="floodlight_dev" />
-    <core name="floodlight_django15" instanceDir="floodlight_django15" />
+    <core name="floodlight_live" instanceDir="floodlight_live" />
     <core name="unittest" instanceDir="unittest" />
   </cores>
 </solr>

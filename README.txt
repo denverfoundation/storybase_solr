@@ -56,5 +56,5 @@ Storybase requires use of:
 There are three urls available:
 
   http://localhost:8983/solr/floodlight_dev
-  http://localhost:8983/solr/floodlight_django15
+  http://localhost:8983/solr/floodlight_live
   http://localhost:8983/solr/unittest
